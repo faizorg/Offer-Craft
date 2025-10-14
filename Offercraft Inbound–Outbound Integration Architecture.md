@@ -6,7 +6,7 @@ This document describes how **Offercraft** integrates with multiple inbound and 
 
 ## 🖼️ Architecture Diagram
 
-![Offercraft Integration Architecture](Application_Integration_Diagram.png)
+![Offercraft Integration Architecture](https://github.com/faizorg/Offer-Craft/blob/main/Application%20Integration%20Diagram.png)
 
 *(Figure 1: Offercraft Inbound–Outbound Integration Flow)*
 
